@@ -19,3 +19,6 @@ Abstractive summarization aims to generate concise and meaningful summaries that
 - Hugging Face Transformers library
 - XLSum dataset
 
+## Dataset Link
+- https://huggingface.co/datasets/csebuetnlp/xlsum/viewer/bengali
+  
