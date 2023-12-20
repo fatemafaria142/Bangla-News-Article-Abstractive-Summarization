@@ -1,4 +1,4 @@
-# Bangla News-Article Abstractive Summarization
+# Bangla News Article Abstractive Summarization
 
 This repository contains code and resources for performing abstractive summarization of Bangla news articles using state-of-the-art pretrained Transformer models, specifically BanglaT5 and mT5. The project utilizes the Hugging Face Transformers library and the XLSum dataset for training and evaluation.
 
